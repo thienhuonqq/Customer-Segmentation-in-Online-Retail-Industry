@@ -36,7 +36,6 @@ Based on our analysis, I found that online retailers can use RFM analysis to seg
 -  Best customers: Reward them for their loyalty by offering exclusive deals, personalized communication, and premium services to encourage them to continue their purchasing behavior.
 -  At-risk customers: Re-engage them by providing personalized promotions, sending them reminders, and offering them a positive experience to retain them as loyal customers.
 
-In summary, our project demonstrates how RFM analysis can help online retailers better understand their customers and develop targeted marketing strategies to improve their bottom line.
-
+In summary, online retailers can use RFM analysis to segment their customers and develop targeted marketing strategies for each segment to improve customer retention, increase revenue, and boost customer satisfaction.
 
 
